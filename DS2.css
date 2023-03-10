@@ -1,0 +1,62 @@
+.Links{
+    padding-left: 5px;
+}
+body{
+    background-color: azure;
+}
+.heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ABOUT{
+    text-align: center;
+    background-color: floralwhite;
+    border: 10px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: azure;
+    width: 35%;
+    float: left;
+}
+.ABOUT li{
+    text-align: left;
+}
+.ABOUT p{
+    padding-bottom: 10px;
+    text-align: left;
+    margin-right: 20%;
+    padding: 10px;
+    padding-left: 25px;
+}
+.ABOUT h2{
+    text-align: center;
+}
+img{
+    border-style: solid;
+    border-color: azure;
+    border: 10px;
+    border-radius: 50px;
+    float: right;
+    padding: 10px;
+}
+.pic2{
+    border-style: solid;
+    border-color: azure;
+    border: 10px;
+    border-radius: 50px;
+    float: right;
+    padding: 10px;
+    padding-top: 30px;
+}
+button{
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    background-color: beige;
+}
+button:hover{
+    background-color: blanchedalmond;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
